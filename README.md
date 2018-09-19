@@ -1,1 +1,3 @@
 # mining
+mining
+# block-erupter
